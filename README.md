@@ -1,5 +1,5 @@
 <h1 align="left">Bem Vindo!!</h1>
-<p align="left"> Minha hitórinha</p><br><p>Formado em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e focado em trazer soluções eficazes para desafios complexos. Com experiência em Java e desenvolvimento mobile</p>
+<p align="left"></p><br><p>Formado em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e focado em trazer soluções eficazes para desafios complexos. Com experiência em Java e desenvolvimento mobile</p>
 <img align="right" height="300" src="https://i.imgur.com/X8IAsrv.png"  />
 <hr size="6" width="50%" align="left">
 <h5 align="left">⚙ Tecnologia e Ferramentas usadas:</h5>
